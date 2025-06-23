@@ -9,7 +9,13 @@ This repository contains two implementations addressing the classic maze-solving
 ---
 
 ## 1. Forward Chaining Using Generalized Modus Ponens (GMP)
-![image](https://github.com/user-attachments/assets/1599c34c-6e66-486e-8284-38cfa75ccef2) ![image](https://github.com/user-attachments/assets/6d4bf72d-53fe-4ce7-bdb6-9f38618b22a9)
+![image](https://github.com/user-attachments/assets/1599c34c-6e66-486e-8284-38cfa75ccef2)
+![image](https://github.com/user-attachments/assets/e851e8af-805f-4849-8231-f12454a53759)
+![image](https://github.com/user-attachments/assets/24336a07-eef9-451e-8cee-f132dd5023c0)
+![image](https://github.com/user-attachments/assets/122e633d-dd2e-4370-9be0-4ac5413679ed)
+![image](https://github.com/user-attachments/assets/72dcd89d-be7e-42d6-9b12-ae51596d9503)
+![image](https://github.com/user-attachments/assets/7ff0cfb6-44ef-4d14-8d0e-6e196b915676)
+![image](https://github.com/user-attachments/assets/f52053a5-6030-4f7f-9cf4-fa1ce39e37ce)
 
 
 
