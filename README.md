@@ -9,6 +9,8 @@ This repository contains two implementations addressing the classic maze-solving
 ---
 
 ## 1. Forward Chaining Using Generalized Modus Ponens (GMP)
+![image](https://github.com/user-attachments/assets/1599c34c-6e66-486e-8284-38cfa75ccef2)
+
 
 This system models the maze as a knowledge base and applies forward chaining with GMP to infer reachable states. The agent deduces its position solely through logical inference rules, without heuristics or goal orientation.
 
