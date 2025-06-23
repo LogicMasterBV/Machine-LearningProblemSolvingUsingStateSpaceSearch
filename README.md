@@ -1,11 +1,3 @@
-# CS6053 Artificial Intelligence and Machine Learning  
-### Group Project: Maze Solving via Logic Inference and Bidirectional Search  
-
-**Author:** Bajram Visha  
-**Student ID:** 21045442  
-**Module Leader:** Vassil Vassilev  
-
----
 
 ## Overview
 
